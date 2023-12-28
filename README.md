@@ -32,7 +32,10 @@ pip install customTkinter
 ```bash
 pip install pytest
 ```
-
+pour lancer kes tests unitaire executer :
+```bash
+pytest TEST_CAPI_MARTIN_MESBAHI.py
+```
 ### Documentation 
 Exécutez la commande suivante pour générer la documentation à partir du fichier de configuration Doxyfile :
 ```bash
