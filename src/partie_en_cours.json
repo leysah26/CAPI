@@ -9,14 +9,12 @@
     {
       "nom": "Tache 2",
       "description": "Description de la deuxieme tache",
-      "note": "2",
-      "terminer": true
+      "note": ""
     },
     {
       "nom": "Tache 3",
       "description": "Description de la troisieme tache",
-      "note": "2",
-      "terminer": true
+      "note": ""
     }
   ],
   "parametre": [
@@ -24,7 +22,7 @@
       "en_cours": true,
       "nom_partie": "Partie test",
       "mode": "Strict",
-      "numero_tache": 3,
+      "numero_tache": 1,
       "joueur": [
         "Robin",
         "Lysa",
