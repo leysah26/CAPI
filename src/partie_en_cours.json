@@ -1,0 +1,35 @@
+{
+  "taches": [
+    {
+      "nom": "Tache 1",
+      "description": "Description de la premiere tache",
+      "note": "2",
+      "terminer": true
+    },
+    {
+      "nom": "Tache 2",
+      "description": "Description de la deuxieme tache",
+      "note": "2",
+      "terminer": true
+    },
+    {
+      "nom": "Tache 3",
+      "description": "Description de la troisieme tache",
+      "note": "2",
+      "terminer": true
+    }
+  ],
+  "parametre": [
+    {
+      "en_cours": true,
+      "nom_partie": "Partie test",
+      "mode": "Strict",
+      "numero_tache": 3,
+      "joueur": [
+        "Robin",
+        "Lysa",
+        "Cell"
+      ]
+    }
+  ]
+}

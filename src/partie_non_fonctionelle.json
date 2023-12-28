@@ -1,0 +1,27 @@
+{
+  "taches": [
+    {
+      "nom": "Tache 1",
+      "description": "Description de la premiere tache",
+      "note": ""
+    },
+    {
+      "nom": "Tache 2",
+      "note": ""
+    },
+    {
+      "nom": "Tache 3",
+      "description": "Description de la troisieme tache",
+      "note": ""
+    }
+  ],
+  "parametre": [
+    {
+      "en_cours" : false,
+      "nom_partie": "",
+      "mode": "",
+      "numero_tache": "",
+      "joueur":[]  
+    }
+  ]
+}
